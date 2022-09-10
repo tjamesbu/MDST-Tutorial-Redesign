@@ -1,3 +1,5 @@
 Introduce yourself in this file!
 
 Tell us your name, year, school, major (if you are undecided, write down the frontrunners), and a fun fact!
+
+Hi there!  My name is Tom James.  I am a 2nd year graduate student in the Univeristy of Michigan's School of Information's Masters in Applied Data Science program.  I have a lot of background experience in teaching, music, and camping.
